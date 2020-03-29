@@ -1,9 +1,15 @@
 # Programovanie v jazyku C
 
-## Den 01
+## 2020-03-29 Domáca úloha
 
-- [Priklady](01/README.md)
+- [Príklady](03/README.md)
 
-## Den 02
+## Marec
 
-- [Priklady](02/README.md)
+### Deň 01
+
+- [Príklady](01/README.md)
+
+### Deň 02
+
+- [Príklady](02/README.md)
