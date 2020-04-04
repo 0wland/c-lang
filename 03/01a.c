@@ -3,7 +3,6 @@
 #include <time.h>
 
 int main() {
-    // otvorenie suboru
     FILE *fh;
     fh = fopen("cisla.txt","w");
 
