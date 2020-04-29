@@ -1,5 +1,14 @@
 # Programovanie v jazyku C
 
+## TEORIA
+
+- [Polia](teoria/polia.md)
+
+---
+## 2020-04-28 Domáca úloha
+
+- [Príklady](05/README.md)
+
 ## 2020-04-04 Domáca úloha
 
 - [Príklady](04/README.md)
